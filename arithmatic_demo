@@ -7,8 +7,6 @@ class arithmatic_demo
     int b=20;
     double sum=a+b;
     double sub=a-b;
-    double multi=a*b;
-    double divi=a/b;
   }
 }
     
