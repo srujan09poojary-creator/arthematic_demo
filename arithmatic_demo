@@ -1,0 +1,14 @@
+
+class arithmatic_demo
+{
+  public static void main(String args[])
+  { 
+    int a=10;
+    int b=20;
+    double sum=a+b;
+    double sub=a-b;
+    double multi=a*b;
+    double divi=a/b;
+  }
+}
+    
